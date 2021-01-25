@@ -3,3 +3,5 @@
 This is a simple file.
 
 ## I changed it.
+
+## New line
